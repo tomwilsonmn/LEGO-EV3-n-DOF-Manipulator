@@ -1,5 +1,4 @@
-# LEGO-EV3-n-DOF-Manipulator
-# to implement a range of LEGO Mindstorms robots. This software is at the prototype stage.
+# LEGO-EV3-n-DOF-Manipulator has two classes, actuator and robot, to implement a range of LEGO Mindstorms robots. This software is at the prototype stage.
 
 # The two classes are general, the short main program at the end are specifically for this six-axis plus end effector articulator.  https://photos.app.goo.gl/Z64PNGZADpMZKLYn9
 
