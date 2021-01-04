@@ -23,7 +23,7 @@
 #---------------------------------------------------------------------------------------------------------
 #
 # This software is at the prototype stage. It consists of two classes, actuator and robot, which implement 
-# n-DOF (degrees of freedom) articulated manipulators. These actator classes can be used to implement a 
+# n-DOF (degrees of freedom) articulated manipulators. These classes can be used to implement a 
 # range of LEGO Mindstorms robots.
 #
 # The two classes are general, the short main program at the end are specifically for this six-axis 
